@@ -13,4 +13,4 @@ The user can input a particular object they want the rover search for. The rover
 * Motor driver + motors + wheels
 
 ## Future Improvements
-I'd like to experiment with creating a self-mapping or self-navigating rovers in the future.
+I'd like to experiment with creating a self-mapping or self-navigating rovers in the future. I think it would be really cool if I could use the ultrasonic sensor to create a very rough map of the room based on the distance the rover is from obstacles. I could then perhaps create some kind of ML model to determine where in the map the rover currently is based upon on the distance away it is from obstacles. I could also do something like this with images.
